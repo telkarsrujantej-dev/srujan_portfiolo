@@ -19,7 +19,7 @@ const socialLinks = [
   {
     name: 'Instagram',
     icon: Instagram,
-    url: 'https://instagram.com/srujan._.26',
+    url: 'https://instagram.com/srujan._.026',
     color: 'hover:text-[#E4405F]',
     bgColor: 'hover:bg-[#E4405F]/20',
   },
