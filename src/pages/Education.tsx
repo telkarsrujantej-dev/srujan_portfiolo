@@ -5,16 +5,14 @@ import SectionTitle from '@/components/SectionTitle';
 
 const educationData = [
   {
-    degree: "Diploma in Electronics and Communication Engineering",
-    school: "Government Polytechnic",
-    location: "Ismailkhanpet, Sangareddy, India",
-    period: "2023 - 2026",
-    gpa: "9.0/10.0",
+    degree: "Diploma in Cloud computing and Big data",
+    school: "Government institute of electronics, Hyderabad",
+    location: "Secunderabad, east marredpally, India",
+    period: "2024 - 2027",
+    gpa: "9.75/10.0",
     highlights: [
-      "Secured 9.0/10.0 GPA with consistent academic performance",
-      "Developed real-world projects using React, TypeScript, and Firebase",
-      "Contributed to open-source projects on GitHub (FOSSASIA, NVIDIA)",
-      "Built and deployed full-stack web and Android applications on Vercel"
+      "Secured 9.75/10.0 GPA with consistent academic performance"
+      "Built and deployed full-stack web applications on Vercel"
     ],
     color: 'magenta',
     borderGradient: 'from-pink-500 via-purple-500 to-violet-500',
@@ -22,11 +20,11 @@ const educationData = [
   {
     degree: "Board of Secondary Education Technology",
     school: "Z P High School",
-    location: "BHEL, Hyderabad, India",
-    period: "2019 - 2023",
-    gpa: "8.0/10.0",
+    location: "Serilingampally, Hyderabad, India",
+    period: "passed out year 2024",
+    gpa: "9.2/10.0",
     highlights: [
-      "Achieved 8.0/10.0 GPA in Secondary Education",
+      "Achieved 9.2/10.0 GPA in Secondary Education",
       "Developed strong foundation in Mathematics, Science, and Technology",
       "Participated in school-level science and technology activities",
       "Demonstrated early interest in computers and electronics"
