@@ -19,7 +19,7 @@ const educationData = [
   },
   {
     degree: "Board of Secondary Education Technology",
-    school: "Z P High School",
+    school: "ZP High School",
     location: "Serilingampally, Hyderabad, India",
     period: "passed out year 2024",
     gpa: "9.2/10.0",
