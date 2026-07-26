@@ -48,7 +48,7 @@ const AppContent = () => {
   return (
     <div className="min-h-screen flex flex-col">
       {showIntro && (
-        <IntroAnimation onComplete={handleIntroComplete} name="BhanuTechLab" />
+        <IntroAnimation onComplete={handleIntroComplete} name="SRUJAN TEJ" />
       )}
       <BackgroundMusic />
       <AnimatedBackground />
