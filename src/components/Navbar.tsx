@@ -9,7 +9,6 @@ const navItems = [
   { path: '/education', label: 'Education' },
   { path: '/experience', label: 'Experience' },
   { path: '/projects', label: 'Projects' },
-  { path: '/opensource', label: 'Open Source' },
   { path: '/contact', label: 'Contact' },
 ];
 
