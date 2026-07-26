@@ -11,7 +11,7 @@ const educationData = [
     period: "2024 - 2027",
     gpa: "9.75/10.0",
     highlights: [
-      "Secured 9.75/10.0 GPA with consistent academic performance"
+      "Secured 9.75/10.0 GPA with consistent academic performance",
       "Built and deployed full-stack web applications on Vercel"
     ],
     color: 'magenta',
