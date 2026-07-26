@@ -5,7 +5,7 @@ import PageWrapper from '@/components/PageWrapper';
 import { Button } from '@/components/ui/button';
 
 const Home = () => {
-  const skills = ['React', 'TypeScript', 'JavaScript', 'FireBase', 'Vite', 'HTML', 'CSS'];
+  const skills = ['React', 'C++', 'C++', 'Java','DSA', 'HTML', 'CSS','Javascript','nodejs'];
 
   return (
     <PageWrapper>
