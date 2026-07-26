@@ -7,7 +7,7 @@ const projectsData = [
   {
     title: "portfolio",
     description: "It showcases your work as a developer — visitors can see your projects, skills, and contact info all in one place. It has a dark/light mode toggle and smooth page transitions to give a professional first impression.",
-    image: "https://i.ibb.co/kVkV25XZ/Screenshot-2026-03-24-104110.png",
+    image: "https://i.ibb.co/JFskkfV0/1000138456.jpg",
     technologies: ["React", "TypeScript", "Vite", "Tailwind CSS", "Supabase", "deployed on Vercel"],
     liveUrl: "https://srujan-portfiolo.vercel.app",
     githubUrl: "https://github.com/Bhanu99517/srujan_portfolio",
