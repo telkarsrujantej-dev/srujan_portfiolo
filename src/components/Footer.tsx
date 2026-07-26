@@ -3,44 +3,30 @@ import { Github, Linkedin, Instagram, Twitter, Palette } from 'lucide-react';
 
 const socialLinks = [
   {
-    name: 'Art Gallery',
-    icon: Palette,
-    url: 'https://my-art-gallery-pro.vercel.app',
-    color: 'hover:text-[#7e6022]',
-    bgColor: 'hover:bg-[#7e6022]/20',
-  },
-  {
     name: 'GitHub',
     icon: Github,
-    url: 'https://github.com/Bhanu99517',
-    color: 'hover:text-[#6e5494]',
-    bgColor: 'hover:bg-[#6e5494]/20',
-  },
-  {
-    name: 'GitHub',
-    icon: Github,
-    url: 'https://github.com/BhanuTechLab',
+    url: 'https://github.com/telkarsrujan-dev',
     color: 'hover:text-[#6e5494]',
     bgColor: 'hover:bg-[#6e5494]/20',
   },
   {
     name: 'LinkedIn',
     icon: Linkedin,
-    url: 'https://www.linkedin.com/in/bhanu99517',
+    url: 'https://www.linkedin.com/in/srujan-tej-telkar-8b5285371?utm_source=share_via&utm_content=profile&utm_medium=member_android',
     color: 'hover:text-[#0A66C2]',
     bgColor: 'hover:bg-[#0A66C2]/20',
   },
   {
     name: 'Instagram',
     icon: Instagram,
-    url: 'https://instagram.com/_g_bhanu_prakash_',
+    url: 'https://instagram.com/srujan._.26',
     color: 'hover:text-[#E4405F]',
     bgColor: 'hover:bg-[#E4405F]/20',
   },
   {
     name: 'X',
     icon: Twitter,
-    url: 'https://x.com/bhanu99517',
+    url: '#',
     color: 'hover:text-foreground',
     bgColor: 'hover:bg-foreground/20',
   },
@@ -66,7 +52,7 @@ const Footer = () => {
             transition={{ delay: 0.3 }}
           >
             © {currentYear}{' '}
-            <span className="font-signature text-lg gradient-text">BhanuPrakash</span>
+            <span className="font-signature text-lg gradient-text">Srujantej</span>
             . All rights reserved.
           </motion.p>
 
