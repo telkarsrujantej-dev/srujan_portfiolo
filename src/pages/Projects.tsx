@@ -10,11 +10,11 @@ const projectsData = [
     image: "https://i.ibb.co/kVkV25XZ/Screenshot-2026-03-24-104110.png",
     technologies: ["React", "TypeScript", "Vite", "Tailwind CSS", "Supabase", "deployed on Vercel"],
     liveUrl: "https://srujan-portfiolo.vercel.app",
-    gitHub url: "https://github.com/Bhanu99517/srujan_portfolio",
+    githubUrl: "https://github.com/Bhanu99517/srujan_portfolio",
     downloadUrl: "#",
     stars: 0,
     forks: 0,
-  },  
+  }
 ];
 
 const ProjectCard = ({ project, index }: { project: typeof projectsData[0]; index: number }) => {
