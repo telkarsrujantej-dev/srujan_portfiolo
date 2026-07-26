@@ -14,14 +14,14 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "bhanu99517@gmail.com",
-    href: "mailto:bhanu99517@gmail.com",
+    value: "telkarsrujantej@gmail.com",
+    href: "mailto:telkarsrujantej@gmail.com",
     color: 'cyan' as const,
   },
   {
     icon: Phone,
     label: "Whatsapp",
-    value: "+91 9347856661",
+    value: "+91 8978946041",
     href: "tel:+",
     color: 'magenta' as const,
   },
@@ -35,8 +35,7 @@ const contactInfo = [
 ];
 
 const socialLinks = [
-  { icon: Github, label: "GitHub", href: "https://github.com/BhanuTechLab", username: "@BhanuTechLabe" },
-  { icon: Github, label: "GitHub", href: "https://github.com/Bhanu99517", username: "@Bhanu99517" },
+  { icon: Github, label: "GitHub", href: "https://github.com/telkarsrujantej-dev", username: "@telkarsrujantej" },
   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/Bhanu99517", username: "in/Bhanu" },
   { icon: Twitter, label: "Twitter", href: "https://twitter.com/Bhanu99517", username: "@Bhanu" },
 ];
