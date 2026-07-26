@@ -7,33 +7,17 @@ import AnimatedCard from '@/components/AnimatedCard';
 
 const experienceData = [
   {
-    role: "Freelance Web Developer",
-    company: "Self-employed",
-    location: "Hyderabad, India",
-    period: "2026",
-    type: "Freelance",
-    description: "Designed and developed custom websites and web applications for various clients ranging from startups to established businesses.",
-    technologies: ["React", "TypeScript", "JavaScript", "Tailwind CSS", "HTML5", "CSS", "Firebase", "Supabase", "Vercel"],
-    highlights: [
-      "Completed 2+ projects for clients worldwide",
-      "Maintained 100% client satisfaction rate",
-      "Implemented responsive designs ensuring optimal user experience across devices",
-      "Provided ongoing support and maintenance for deployed projects"
-    ],
-    color: 'cyan' as const,
-  },
-  {
     role: "Diploma Industrial Training Student",
-    company: "Siri Power Systems Technologies Pvt Ltd",
-    location: "Jeedimetla, Hyderabad, India",
+    company: "Central institute of tool design",
+    location: "Balanagar, Hyderabad, India",
     period: "2026",
     type: "Diploma Industrial Training",
-    description: "Completed a comprehensive 6-month industrial training program focused on power systems, gaining practical experience in the industry and applying theoretical knowledge to real-world scenarios.",
+    description: "Completed a comprehensive 6-month industrial training program focused on python ,machine learning, computer vision ,and gaining practical experience in the industry and applying theoretical knowledge to real-world scenarios.",
     technologies: [],
     highlights: [
-      "Gained hands-on experience in the power systems industry",
-      "Learned about power generation, transmission, and distribution processes",
-      "Assisted in the maintenance and troubleshooting of electrical equipment",
+      "Gained hands-on experience, and building real world projecs using python",
+      "Learned about machine learning ,computer vision",
+      "And improved communication skills and team work",
     ],
     color: 'magenta' as const,
   },
