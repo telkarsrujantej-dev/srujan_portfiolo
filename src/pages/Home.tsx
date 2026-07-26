@@ -37,7 +37,7 @@ const Home = () => {
               >
                 Hi, I'm{' '}
                 <span className="gradient-text font-signature text-6xl md:text-8xl">
-                  Bhanu Prakash
+                  Srujan tej
                 </span>
               </motion.h1>
 
@@ -114,9 +114,9 @@ const Home = () => {
               transition={{ delay: 1.1 }}
             >
               {[
-                { icon: Github, href: 'https://github.com/Bhanu99517', label: 'GitHub' },
-                { icon: Linkedin, href: 'https://www.linkedin.com/in/bhanu99517', label: 'LinkedIn' },
-                { icon: Twitter, href: 'https://x.com/bhanu99517', label: 'Twitter' },
+                { icon: Github, href: 'https://github.com/telkarsrujantej-dev', label: 'GitHub' },
+                { icon: Linkedin, href: 'https://www.linkedin.com/in/srujan-tej-telkar-8b5285371/', label: 'LinkedIn' },
+                { icon: Twitter, href: '#', label: 'Twitter' },
               ].map((social, index) => (
                 <motion.a
                   key={social.label}
@@ -152,7 +152,7 @@ const Home = () => {
                 <span className="text-glow-magenta">const</span>{' '}
                 <span className="text-glow-cyan">developer</span>{' '}
                 <span className="text-muted-foreground">=</span>{' '}
-                <span className="text-glow-gold">"Bhanu"</span>;
+                <span className="text-glow-gold">"Srujan"</span>;
               </motion.div>
 
               <motion.div
@@ -205,7 +205,7 @@ const Home = () => {
                       animate={{ opacity: 1 }}
                       transition={{ delay: 2 }}
                     >
-                      {['⚛️ React', '📘 TypeScript', '🚀 Node.js'].map((skill, i) => (
+                      {['⚛️ React', '📘 java', '🚀 Node.js','c', 'c++',].map((skill, i) => (
                         <span
                           key={skill}
                           className="px-2 py-1 rounded bg-muted text-xs"
