@@ -36,8 +36,8 @@ const contactInfo = [
 
 const socialLinks = [
   { icon: Github, label: "GitHub", href: "https://github.com/telkarsrujantej-dev", username: "@telkarsrujantej" },
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/Bhanu99517", username: "in/Bhanu" },
-  { icon: Twitter, label: "Twitter", href: "https://twitter.com/Bhanu99517", username: "@Bhanu" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/srujan-tej-telkar-8b5285371?utm_source=share_via&utm_content=profile&utm_medium=member_android", username: "srujan tej" },
+  { icon: Twitter, label: "Twitter", href: "#", username: "@Srujantej" },
 ];
 
 interface FormErrors {
