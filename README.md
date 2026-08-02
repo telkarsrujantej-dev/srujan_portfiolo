@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Bhanu Prakash — Personal Portfolio
+# 🚀 Srujan tej — Personal Portfolio
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ECE+Engineer+%26+AI+Enthusiast;Open+Source+Contributor;Hardware+%2B+AI+%2B+Software+Builder" alt="Typing SVG" />
 
