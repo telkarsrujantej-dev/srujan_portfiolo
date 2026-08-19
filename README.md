@@ -183,22 +183,15 @@ Feel free to reach out for collaborations, freelance work, or just to say hi!
 
 | Platform | Link |
 |---|---|
-| 🌐 **Portfolio** | [bhanutechlab.vercel.app](https://bhanutechlab.vercel.app) |
-| 📧 **Email** | [bhanu99517@gmail.com](mailto:bhanu99517@gmail.com) |
-| 💼 **LinkedIn** | [g-bhanu-prakash-18a476340](https://www.linkedin.com/in/g-bhanu-prakash-18a476340) |
-| 🐦 **X (Twitter)** | [@bhanu9951](https://www.x.com/bhanu9951) |
-| 📸 **Instagram** | [_g_bhanu_prakash_](https://www.instagram.com/_g_bhanu_prakash_) |
-| 🐙 **GitHub** | [Bhanu99517](https://github.com/Bhanu99517) |
+| 🌐 **Portfolio** | [srujantej.vercel.app](https://srujan-portfiolo.vercel.app/) |
+| 📧 **Email** | [telkarsrujantej068@gmail.com](mailto:telkarsrujantej068@gmail.com) |
+| 💼 **LinkedIn** | [Srujan tej Telkar](https://www.linkedin.com/in/srujan-tej-telkar-8b5285371/) |
+| 📸 **Instagram** | [srujan._.026](https://www.instagram.com/srujan._.026) |
+| 🐙 **GitHub** | [tlekarsrujanteh-dev](https://github.com/telkarsrujantej-dev) |
 
 ---
 
 ## 💖 Support
-
-If you like this project or found it helpful:
-
-- ⭐ **Star this repository** — it means a lot!
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/bhanu99517)
-- 🍵 [Ko-fi](https://ko-fi.com/bhanu99517)
 
 ---
 
@@ -210,15 +203,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 MIT License — Copyright (c) 2024 G Bhanu Prakash
 Free to use, modify, and distribute with attribution.
 ```
-
----
-
-<div align="center">
-
-Made with ❤️ by **[Bhanu Prakash](https://github.com/Bhanu99517)**
-
-*ECE Engineer · Full Stack Developer · Open Source Enthusiast*
-
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanu99517)
-
-</div>
