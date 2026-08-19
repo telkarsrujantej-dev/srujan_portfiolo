@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-bhanutechlab.vercel.app-00D4FF?style=for-the-badge&logoColor=white)](https://bhanutechlab.vercel.app)
+
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)](https://github.com/Bhanu99517/Bhanu-portfolio)
 [![Stars](https://img.shields.io/github/stars/Bhanu99517/Bhanu-portfolio?style=for-the-badge&color=yellow)](https://github.com/Bhanu99517/Bhanu-portfolio/stargazers)
