@@ -156,8 +156,6 @@ npm install -g vercel
 vercel
 ```
 
-**Live URL:** [bhanutechlab.vercel.app](https://bhanutechlab.vercel.app)
-
 ---
 
 ## 🏆 GitHub Achievements
