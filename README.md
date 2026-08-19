@@ -26,7 +26,7 @@
 
 ## 📖 About
 
-**Bhanu Prakash Portfolio v2** is a fully responsive, modern personal portfolio website built to showcase projects, skills, achievements, and contact information. It's designed for developers, AI enthusiasts, and tech professionals who want a clean, fast, and professional online presence.
+**srujan tej** is a fully responsive, modern personal portfolio website built to showcase projects, skills, achievements, and contact information. It's designed for developers, AI enthusiasts, and tech professionals who want a clean, fast, and professional online presence.
 
 This is the **second iteration** of the portfolio — rebuilt from scratch with a more polished UI, better performance, and richer content sections including an Open Source page, GitHub stats integration, and a contact form powered by Supabase.
 
@@ -73,36 +73,7 @@ This is the **second iteration** of the portfolio — rebuilt from scratch with 
 
 ---
 
-## 📁 Project Structure
 
-```
-Bhanu-portfolio/
-├── .github/                    # GitHub Actions workflows
-├── public/                     # Static assets (favicon, images, icons)
-├── src/
-│   ├── assets/                 # Images, SVGs, and media
-│   ├── components/             # Reusable UI components
-│   │   ├── Header.tsx          # Navigation bar
-│   │   ├── Footer.tsx          # Footer with links
-│   │   ├── Hero.tsx            # Landing hero section
-│   │   ├── About.tsx           # About me section
-│   │   ├── Skills.tsx          # Tech stack display
-│   │   ├── Projects.tsx        # Project cards grid
-│   │   ├── OpenSource.tsx      # GitHub stats & achievements
-│   │   └── Contact.tsx         # Contact form
-│   ├── App.tsx                 # Root component & routing
-│   ├── main.tsx                # React entry point
-│   └── index.css               # Global styles
-├── supabase/                   # Supabase config & migrations
-├── index.html                  # HTML entry point
-├── tailwind.config.ts          # Tailwind configuration
-├── vite.config.ts              # Vite configuration
-├── tsconfig.json               # TypeScript config
-├── package.json                # Dependencies & scripts
-└── README.md                   # This file
-```
-
----
 
 ## 🚀 Getting Started
 
